@@ -50,7 +50,7 @@
 
 ## 🤔 Why?
 
-- **Keep your documents up-to-date** during the SDLC, especially during releases.
+- **Keep your documents up-to-date** during the SDLC, especially during releases without creating additional or separate in-between and temp files.
 - **Avoid errors and improve consistency** using simple comment placeholders to populate with new data within them.
 - **Save time and effort** by automating the process of replacing API, usage, and other information within your files instead of you updating them manually.
 
