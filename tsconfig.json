@@ -1,0 +1,23 @@
+{
+  "extends": "@tsconfig/node18/tsconfig.json",
+
+  "ts-node": {
+    "require": ["tsconfig-paths/register"],
+    "files": true
+  },
+
+  "compilerOptions": {
+    "resolveJsonModule": true
+  },
+
+  "include": [
+    "bin",
+    "src",
+    "test",
+    "package.json"
+  ],
+
+  "exclude": [
+    "node_modules"
+  ]
+}
