@@ -33,7 +33,7 @@
   "dependencies": {
     "@intradoc/core": "^2.1.0",
     "fs-extra": "^10.1.0",
-    "glob": "^8.0.3",
+    "glob": "^10.2.2",
     "json5": "^2.2.3",
     "yaml": "^2.2.1"
   },
