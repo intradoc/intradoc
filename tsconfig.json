@@ -11,10 +11,7 @@
   },
 
   "include": [
-    "bin",
-    "src",
-    "test",
-    "package.json"
+    "**/*.ts"
   ],
 
   "exclude": [

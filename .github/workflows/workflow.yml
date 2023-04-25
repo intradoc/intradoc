@@ -26,7 +26,10 @@ jobs:
       run: npm run lint
 
     - name: test
-      run: npm test
+      run: npm test -- --coverage
+
+    - name: upload coverage
+      uses: codecov/codecov-action@v3
 
     - name: prepare
       run: npm run prep
@@ -38,4 +41,4 @@ jobs:
 
     env:
       GH_TOKEN:  ${{ secrets.GH_TOKEN }}
-      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      # NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

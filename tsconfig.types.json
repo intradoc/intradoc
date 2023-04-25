@@ -12,7 +12,8 @@
   },
 
   "exclude": [
-    "node_modules",
-    "test"
+    "**/*.test.ts",
+    "test",
+    "node_modules"
   ]
 }
