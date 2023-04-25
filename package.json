@@ -4,7 +4,10 @@
   "description": "In-place document content replacer CLI utility.",
   "author": "Richard King <richrdkng@gmail.com> (https://richrdkng.com)",
   "license": "MIT",
-  "bin": "bin",
+  "main": "./bin/index.js",
+  "bin": {
+    "intradoc": "./bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/intradoc/intradoc.git"
