@@ -22,7 +22,6 @@ async function main (): Promise<void> {
   })
 }
 
-// @typescript-eslint/no-floating-promises compatible top level await
 main()
   .then(() => {})
   .catch(() => {})
