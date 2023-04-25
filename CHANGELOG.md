@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/intradoc/intradoc/compare/v1.1.0...v1.1.1) (2023-04-25)
+
+
+### Bug Fixes
+
+* **build:** keep hashbang line for bin/index.js during build ([cff4a3e](https://github.com/intradoc/intradoc/commit/cff4a3e4339ed74424193701b149e8ea10212187))
+
 # [1.1.0](https://github.com/intradoc/intradoc/compare/v1.0.0...v1.1.0) (2023-04-25)
 
 
