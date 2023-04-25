@@ -50,9 +50,9 @@
 
 ## 🤔 Why?
 
-- 1.: **Keep your documents up-to-date** during the SDLC, especially during releases.
-- 2.: **Avoid errors and improve consistency** using simple comment placeholders to populate with new data within them.
-- 3.: **Save time and effort** by automating the process of replacing API, usage, and other information within your files instead of you updating them manually.
+- **Keep your documents up-to-date** during the SDLC, especially during releases.
+- **Avoid errors and improve consistency** using simple comment placeholders to populate with new data within them.
+- **Save time and effort** by automating the process of replacing API, usage, and other information within your files instead of you updating them manually.
 
 ## 📦 Installation
 
