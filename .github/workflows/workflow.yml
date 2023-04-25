@@ -40,5 +40,6 @@ jobs:
     # --------------------------------------------------------------------------
 
     env:
-      GH_TOKEN:  ${{ secrets.GH_TOKEN }}
+      CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
+      GH_TOKEN:      ${{ secrets.GH_TOKEN }}
       # NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
