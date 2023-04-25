@@ -104,7 +104,7 @@ Options:
 
 ## ⭐ Related
 
-- [@intradoc on NPM](https://www.npmjs.com/org/intradoc)
+- [@intradoc on NPM](https://www.npmjs.com/search?q=keywords:intradoc)
 
 ## 🍻 Contribution
 
