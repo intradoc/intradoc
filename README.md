@@ -43,7 +43,7 @@
 </h3>
 
 <p align="center">
-  A simple, in-place <b>document content replacer</b> CLI utility, which works by <b>replacing placeholder text</b> within your files.
+  A simple, in-place <b>document content replacer</b> CLI utility,<br/> which works by <b>replacing placeholder text</b> within your files.
 </p>
 
 ---
