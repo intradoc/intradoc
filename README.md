@@ -13,9 +13,9 @@
   <!-- Coverage badge -->
   <a href="https://codecov.io/gh/intradoc/intradoc"><img src="https://img.shields.io/codecov/c/github/intradoc/intradoc?logo=codecov&logoColor=white" alt="coverage-badge"></a>
   <!-- Dependency badge -->
-  <a href="https://github.com/intradoc/intradoc/pulls?q=is%3Apr+is%3Aopen+label%3Asecurity"><img src="https://img.shields.io/badge/Dependabot-✔-brightgreen.svg?logo=dependabot" alt="dependency-badge"></a>
+  <a href="https://github.com/intradoc/intradoc/pulls?q=is%3Apr+is%3Aopen+label%3Asecurity"><img src="https://img.shields.io/badge/Dependencies-✔-brightgreen.svg?logo=dependabot" alt="dependency-badge"></a>
   <!-- Security badge -->
-  <a href="https://socket.dev/npm/package/intradoc"><img src="https://socket.dev/api/badge/npm/package/intradoc" alt="security-badge"></a>
+  <a href="https://socket.dev/npm/package/intradoc"><img src="https://img.shields.io/badge/Security-✔-brightgreen.svg?logo=auth0&logoColor=white" alt="release-workflow-badge"></a> 
 </p>
 
 <!-- Badges - 2nd row -->
